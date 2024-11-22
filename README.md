@@ -1,8 +1,6 @@
 Instalar o Xampp Server
 Acessar o localhost -> phpMyAdmin, pegar o banco de dados deste link abaixo: 
 
-https://github.com/josetads/pdv.git
-
 Baixe, extaria para a pasta chamada: htdocs, deixe ai dentro, a pasta "pdv"
 
 Crie o banco de dados com o mesmo nome da base pdv, depois vá em Importar e procure o arquivo "pdv.sql" que foi baixado do link que compartilhei.
